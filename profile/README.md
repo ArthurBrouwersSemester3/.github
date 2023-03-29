@@ -1,2 +1,5 @@
-![](https://user-images.githubusercontent.com/95029345/228459237-0dd0d3b5-6650-407b-8b23-95bedb6fe1af.png =250x250)
+# Welcome to gym*stars organization
+
+## About us
+We are and [Arthur Brouwers](https://github.com/ArthurBrouwers) better known as gym and [Matthijs Dolmans](https://github.com/MatthijsDolmans) better known as stars ),  this project has been made for ICT software third semester at Fontys.
 
