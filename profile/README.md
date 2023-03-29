@@ -1,7 +1,7 @@
 # Welcome to gym*stars!
 <img src="https://user-images.githubusercontent.com/124791770/228488301-cb0f3f97-3fb2-4c15-9bc4-f30c268e75bd.png" alt="Image description" width="300" height="200">
 
-## About us
+# About us
 We are [Arthur Brouwers](https://github.com/ArthurBrouwers) better known as gym and [Matthijs Dolmans](https://github.com/MatthijsDolmans) better known as stars.  This project has been made for ICT software third semester at Fontys.
 
 # The idea
