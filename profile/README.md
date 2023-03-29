@@ -13,3 +13,6 @@ The application will include 7 graphs per gym. Each day of the week has it's own
 
 Eventually the idea is that paid users get more specific information. So if you have an account, you can see realtime information. 
 If you decide to use the free option (no registration would be needed), you will only see average information.
+
+# Documentation
+You can find detailed documentation of the project on [here](https://github.com/ArthurBrouwersSemester3/Documentation)
