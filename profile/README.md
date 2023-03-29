@@ -4,7 +4,7 @@
 ## About us
 We are [Arthur Brouwers](https://github.com/ArthurBrouwers) better known as gym and [Matthijs Dolmans](https://github.com/MatthijsDolmans) better known as stars.  This project has been made for ICT software third semester at Fontys.
 
-#The idea
+# The idea
 Our project idea "gym*stars" is for (potential) gym members with little free time. Potential gym members can view the statistics of how busy it is per day and hour.
 Based on that information choose a gym that suits their agenda best.
 On the other hand, gym members can also view how busy it is in their specific gym and based on that information see whether it is even worth going to the gym at a specific time.
