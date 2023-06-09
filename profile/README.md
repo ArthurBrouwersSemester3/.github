@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/124791770/233000968-5bb87fb7-a7af-43e0-8650-84eba0102d5c.gif" alt="Image description" width="200" height="200">
 
 # About us
-We are [Arthur Brouwers](https://github.com/ArthurBrouwers) better known as gym and [Matthijs Dolmans](https://github.com/MatthijsDolmans) better known as stars.  This project has been made for ICT software third semester at Fontys.
+We are [Arthur Brouwers](https://github.com/Arthur-Brouwers) better known as gym and [Matthijs Dolmans](https://github.com/MatthijsDolmans) better known as stars.  This project has been made for ICT software third semester at Fontys.
 
 # The idea
 Our project idea "gym*stars" is for (potential) gym members with little free time. Potential gym members can view the statistics of how busy it is per day and hour.
